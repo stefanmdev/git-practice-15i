@@ -1,0 +1,5 @@
+COMANDOS DE GIT
+
+1- Para iniciar un repositorio --> git init
+2- Para agregar archivos al área de preparación --> git add .
+3- Para confirmar cambios (comitear) --> git commit -m "<mensaje>"
